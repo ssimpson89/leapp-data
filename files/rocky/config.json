@@ -120,8 +120,8 @@
             "out_packageset": "rocky10-crb"
         },
         "rhel10-HighAvailability": {
-            "in_packageset": "highavailability",
-            "out_packageset": "rocky10-highavailability"
+            "in_packageset": "ha",
+            "out_packageset": "rocky10-ha"
         },
         "rhel10-SAP-Solutions": {
             "in_packageset": "saphana",
